@@ -37,8 +37,9 @@ input {
     width: 15em;
 }
 .bigBox {
-    height: 3em;
+    height: 5em;
     width: 104em;
+    position: fixed;
 }
 .red    {
     background-color: red;
@@ -48,4 +49,7 @@ input {
 }
 .yellow {
     background-color: gold;
+}
+.float {
+    float: left;
 }
