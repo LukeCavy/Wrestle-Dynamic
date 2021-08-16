@@ -1,0 +1,51 @@
+body {       
+    color:white;
+    background-color: rgba(0, 0, 0, 0.856);
+}
+header {
+    background-color: blue ;
+}
+.text-center {
+text-align: center; color:
+}
+.text-left {
+text-align: left;
+}
+.text-right {
+text-align: right;
+}
+.text-blue {
+    color: #1212f0;
+}
+.text-red {
+    color: rgba(243, 13, 13, 0.25);
+}
+.text-green {
+    color: rgba(20, 163, 20, 0.55);
+}
+[name="states"]  {
+    font-weight: bold;
+}
+button {
+    display:block;
+}
+input {
+    display: inline;
+}
+.box {
+    height: 10em;
+    width: 15em;
+}
+.bigBox {
+    height: 15em;
+    width: 20em;
+}
+.red    {
+    background-color: red;
+}
+.blue {
+    background-color: blue;
+}
+.yellow {
+    background-color: gold;
+}
