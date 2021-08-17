@@ -53,3 +53,13 @@ input {
 .float {
     float: left;
 }
+
+.inline{
+    display: inline-block;
+}
+.nice-ass{
+    display: flex;
+}
+.nice-ss{
+    align-self: center;
+}
