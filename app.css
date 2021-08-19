@@ -63,3 +63,28 @@ input {
 .nice-ss{
     align-self: center;
 }
+.font-small {
+    font-size: 50%;
+}
+.pixels {
+    font-size: 18px;
+}
+.ems {
+    font-size 2em;
+}
+.rems { 
+    font-size: 1rem;
+}
+.percent {
+    font-size: 200%;
+}
+.bodyLeft {
+    margin: 0;
+}
+.bodyCenter {
+    margin-left: 11em;
+}
+button {
+    margin: 0em;
+    padding: 1em;
+}
