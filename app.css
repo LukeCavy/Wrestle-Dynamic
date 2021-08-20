@@ -17,11 +17,17 @@ text-align: right;
 .text-blue {
     color: #1212f0;
 }
+.text-black {
+    color: black;
+}
 .text-red {
     color: rgba(243, 13, 13, 0.25);
 }
 .text-green {
     color: rgba(20, 163, 20, 0.55);
+}
+.text-white {
+    color: white;
 }
 [name="states"]  {
     font-weight: bold;
@@ -33,8 +39,8 @@ input {
     display: inline;
 }
 .box {
-    height: 10em;
-    width: 15em;
+    height: 4em;
+    width: 8em;
 }
 .bigBox {
     height: 5em;
@@ -49,6 +55,9 @@ input {
 }
 .yellow {
     background-color: gold;
+}
+.white {
+    background-color: white;
 }
 .float {
     float: left;
@@ -67,7 +76,7 @@ input {
     font-size: 50%;
 }
 .pixels {
-    font-size: 18px;
+    font-size: 30px;
 }
 .ems {
     font-size 2em;
@@ -76,7 +85,7 @@ input {
     font-size: 1rem;
 }
 .percent {
-    font-size: 200%;
+    font-size: 300%;
 }
 .bodyLeft {
     margin: 0;
@@ -87,4 +96,11 @@ input {
 button {
     margin: 0em;
     padding: 1em;
+    font-family: 'Lato', sans-serif;
+}
+.lato {
+    font-family: 'Lato';
+}
+.banner {
+    margin: 1em;
 }
