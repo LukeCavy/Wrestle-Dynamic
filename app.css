@@ -101,6 +101,24 @@ button {
 .lato {
     font-family: 'Lato';
 }
+.lobster {
+    font-family: 'Lobster'
+}
 .banner {
     margin: 1em;
+}
+.underline {
+    text-decoration: underline;
+}
+.borderOne {
+    border: 5px solid rgb(8, 224, 8);
+}
+.full-screen {
+    margin: 0;
+    height: ;
+    width: 100vw;
+}
+.bg-img {
+    background: url(money.jpeg);
+    background-repeat: repeat;
 }
